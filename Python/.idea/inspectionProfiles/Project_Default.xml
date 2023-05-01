@@ -1,0 +1,53 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="GrazieInspection" enabled="false" level="GRAMMAR_ERROR" enabled_by_default="false" />
+    <inspection_tool class="LanguageDetectionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+          <option value="N806" />
+          <option value="N802" />
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="str.__sub__" />
+          <option value="float.__getitem__" />
+          <option value="str.pop" />
+          <option value="PySide6.QtWidgets.clicked.connect" />
+          <option value="PySide6.QtWidgets.textChanged.connect" />
+          <option value="PySide6.QtWidgets.stateChanged.connect" />
+          <option value="PySide6.QtWidgets.currentIndexChanged.connect" />
+          <option value="PySide6.QtWidgets.currentTextChanged.connect" />
+          <option value="PySide6.QtWidgets.currentItemChanged.connect" />
+          <option value="PySide6.QtWidgets.returnPressed.connect" />
+          <option value="PySide6.QtWidgets.selectionChanged.connect" />
+          <option value="PySide6.QtWidgets.valueChanged.connect" />
+          <option value="PySide6.QtWidgets.sliderMoved.connect" />
+          <option value="PySide6.QtWidgets.sliderPressed.connect" />
+          <option value="PySide6.QtWidgets.sliderReleased.connect" />
+          <option value="Python.Clases.PySide.Lesson3.Class7Tabs.Colour.__or__" />
+          <option value="PySide6.QtWidgets.pressed.connect" />
+          <option value="Python.Clases.TipsAndTricks.Lesson1.Class5Dunder.B._A__privateMethod" />
+          <option value="Python.Clases.TipsAndTricks.Lesson1.Class5Dunder.B._B__privateMethod" />
+          <option value="Python.Clases.TipsAndTricks.Lesson1.Class5Dunder.A._A__privateMethod" />
+          <option value="Python.Clases.TipsAndTricks.Lesson1.Class5Dunder.__globalVariable" />
+          <option value="Python.Clases.TipsAndTricks.Lesson1.Class6Dunder.A._A__privateVar" />
+          <option value="Clases.TipsAndTricks.Lesson1.Class6Dunder.A._A__privateVar" />
+          <option value="Clases.TipsAndTricks.Lesson2.Class1Functions.transformLowerCase" />
+          <option value="Clases.TipsAndTricks.Lesson2.Class1Functions.show.transformLowerCase" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
